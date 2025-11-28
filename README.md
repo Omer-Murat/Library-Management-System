@@ -1,8 +1,8 @@
 # 📚 Library Management System
 
-![C++](https://img.shields.io/badge/Language-C++-blue)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey)
-![License](https://img.shields.io/badge/License-MIT-green)
+![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
+![IDE](https://img.shields.io/badge/IDE-Visual%20Studio-purple?style=for-the-badge&logo=visual-studio)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge&logo=windows)
 
 ![Menü](menü.png)
 
@@ -32,12 +32,16 @@ Gelişmiş, güvenli ve kullanıcı dostu bir konsol tabanlı **Kütüphane Yön
     * **Structs:** Kitap ve Kullanıcı veri yapıları.
     * **Vectors:** Dinamik veri listeleri.
 
-## 💻 Kurulum ve Çalıştırma
+## 🛠️ Kurulum ve Çalıştırma
+
+Bu projeyi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
 Projeyi bilgisayarınıza klonlayın:
 
 ```bash
 git clone [https://github.com/Omer-Murat/Library-Management-System.git](https://github.com/Omer-Murat/Library-Management-System.git)
 ```
+Geliştirici: Ömer Murat
 
-Geli: Omer-Murat
+---
+*Bu proje açık kaynaklıdır ve eğitim amaçlı geliştirilmiştir.*
