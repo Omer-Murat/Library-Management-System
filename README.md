@@ -39,7 +39,7 @@ Bu projeyi bilgisayarınızda çalıştırmak için aşağıdaki adımları izle
 Projeyi bilgisayarınıza klonlayın:
 
 ```bash
-git clone [https://github.com/Omer-Murat/Library-Management-System.git](https://github.com/Omer-Murat/Library-Management-System.git)
+git clone https://github.com/Omer-Murat/Library-Management-System.git
 ```
 Geliştirici: Ömer Murat
 
